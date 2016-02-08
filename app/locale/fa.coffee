@@ -21,8 +21,8 @@ module.exports = nativeDescription: "فارسی", englishDescription: "Persian",
     editor: "ویرایشگر"
     blog: "بلاگ"
     forum: "انجمن"
-#    account: "Account"
-#    profile: "Profile"
+#    account: "حساب"
+#    profile: "مشخصات"
 #    stats: "Stats"
 #    code: "Code"
     admin: "مدیر" # Only shows up when you are an admin
@@ -32,7 +32,7 @@ module.exports = nativeDescription: "فارسی", englishDescription: "Persian",
     about: "درباره"
     contact: "تماس "
     twitter_follow: "دنبال کردن"
-#    teachers: "Teachers"
+#    teachers: "معلمان"
 #    careers: "Careers"
 
   modal:
